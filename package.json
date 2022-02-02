@@ -1,0 +1,23 @@
+{
+  "name": "shakespeareaninsultbot",
+  "version": "1.0.0",
+  "description": "Shakespearean insult generator bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scoutchorton/ShakespeareanInsultBot.git"
+  },
+  "author": "scoutchorton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scoutchorton/ShakespeareanInsultBot/issues"
+  },
+  "homepage": "https://github.com/scoutchorton/ShakespeareanInsultBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord.js": "^13.6.0"
+  }
+}
